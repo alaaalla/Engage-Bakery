@@ -1,0 +1,79 @@
+@media  screen and (max-width:600px) {
+    .nav-links {
+        padding: 15px 0;
+        width: 100%;
+    }
+    .location-img {
+        width: 100%;
+    }
+    .DetailsSection{
+        height: 1300px;
+    }
+    .details{ width: 100%;}
+    .types{
+        width: 100%;}
+    }
+@media screen and (min-width:601px) {
+    .nav-links {
+        padding: 15px 0;
+        width: 50%;
+        float: right;
+    }
+    .location-img {
+        width: 50%;
+    }
+    .DetailsSection{
+        height: 1000px;
+    }
+    .details{ width: 50%;}
+      .types{ width: 45%;
+    }
+    }
+@media screen and (min-width:769px) {
+    .nav-links {
+        padding: 15px 0;
+        width: 50%;
+        float: right;
+    }
+    .location-img {
+        width: 50%;
+        float: right;
+    }
+    .DetailsSection{
+        height: 800px;
+    }
+    .details{width: 30;}
+        .types{ width: 40%;
+       
+    }}
+@media screen and (min-width:992px) {
+    .nav-links {
+        padding: 15px 0;
+        width: 50%;
+        float: right;
+    }
+    .location-img {
+        width: 50%;
+    }
+        .DetailsSection{
+        height: 600px;
+        }
+        .details{ width: 25%;}
+        .types{ width: 35%;
+        }}
+@media screen and (min-width:1200px){
+    .nav-links {
+        padding: 15px 0;
+        width: 50%;
+        float: right;
+    }
+    .location-img {
+        width: 45%;
+    }
+            .DetailsSection{
+                height: 400px;
+            }
+            .details{ width: 25%;}
+            .types{ width: 30%;
+            }} 
+            
