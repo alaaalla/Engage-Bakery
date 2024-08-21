@@ -1,79 +1,146 @@
-@media  screen and (max-width:600px) {
+@media screen and (max-width:600px) {
+    .home {
+        height: 75vh;}
     .nav-links {
         padding: 15px 0;
         width: 100%;
     }
+
     .location-img {
         width: 100%;
     }
-    .DetailsSection{
+
+    .DetailsSection {
         height: 1300px;
     }
-    .details{ width: 100%;}
-    .types{
-        width: 100%;}
+
+    .details {
+        width: 100%;
     }
+
+    .types {
+        width: 100%;
+    }
+
+    .icons {
+        width: 8%;
+    }
+}
+
 @media screen and (min-width:601px) {
+    .home {
+        height: 80vh;}
     .nav-links {
         padding: 15px 0;
         width: 50%;
         float: right;
     }
+
     .location-img {
         width: 50%;
     }
-    .DetailsSection{
+
+    .DetailsSection {
         height: 1000px;
     }
-    .details{ width: 50%;}
-      .types{ width: 45%;
+
+    .details {
+        width: 50%;
     }
+
+    .types {
+        width: 45%;
     }
+    .icons {
+        width: 5%;
+    }
+}
+
 @media screen and (min-width:769px) {
+    .home {
+        height: 100vh;}
     .nav-links {
         padding: 15px 0;
         width: 50%;
         float: right;
     }
+
     .location-img {
         width: 50%;
         float: right;
     }
-    .DetailsSection{
+
+    .DetailsSection {
         height: 800px;
     }
-    .details{width: 30;}
-        .types{ width: 40%;
-       
-    }}
+
+    .details {
+        width: 30;
+    }
+
+    .types {
+        width: 40%;
+
+    }
+    .icons {
+        width: 5%;
+    }
+}
+
 @media screen and (min-width:992px) {
+    .home {
+        height: 100vh;}
     .nav-links {
         padding: 15px 0;
         width: 50%;
         float: right;
     }
+
     .location-img {
         width: 50%;
     }
-        .DetailsSection{
+
+    .DetailsSection {
         height: 600px;
-        }
-        .details{ width: 25%;}
-        .types{ width: 35%;
-        }}
-@media screen and (min-width:1200px){
+    }
+
+    .details {
+        width: 25%;
+    }
+
+    .types {
+        width: 35%;
+    }
+    .icons {
+        width: 3%;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .home {
+        height: 100vh;}
     .nav-links {
         padding: 15px 0;
         width: 50%;
         float: right;
     }
+
     .location-img {
         width: 45%;
     }
-            .DetailsSection{
-                height: 400px;
-            }
-            .details{ width: 25%;}
-            .types{ width: 30%;
-            }} 
-            
+
+    .DetailsSection {
+        height: 400px;
+    }
+
+    .details {
+        width: 25%;
+    }
+
+    .types {
+        width: 30%;
+    }
+    .icons {
+        width: 3%;
+    }
+}
