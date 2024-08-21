@@ -106,7 +106,6 @@
 }
 
 .about-img {
-    width: 45%;
     float: left;
     padding-right: 30px;
 }
@@ -121,7 +120,6 @@
 }
 
 .about-contant {
-    width: 45%;
     float: right;
     padding: 40px 25px;
 }
@@ -146,7 +144,6 @@
 }
 
 .location-img {
-    width: 45%;
     float: right;
 }
 
@@ -155,7 +152,6 @@
 }
 
 .location-contant {
-    width: 46%;
     float: left;
     padding: 140px 0px;
 }
